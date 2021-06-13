@@ -1,7 +1,6 @@
 import com.sun.xml.internal.ws.org.objectweb.asm.ClassWriter;
 import com.sun.xml.internal.ws.org.objectweb.asm.Opcodes;
 
-
 /**
  * -XX:MetaspaceSize=10m -XX:MaxMetaspaceSize=10m
  */
