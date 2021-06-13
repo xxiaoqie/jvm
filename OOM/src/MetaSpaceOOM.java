@@ -2,7 +2,7 @@ import com.sun.xml.internal.ws.org.objectweb.asm.ClassWriter;
 import com.sun.xml.internal.ws.org.objectweb.asm.Opcodes;
 
 /**
- * -XX:MetaspaceSize=10m -XX:MaxMetaspaceSize=10m   改点东西
+ * -XX:MetaspaceSize=10m -XX:MaxMetaspaceSize=10m   不给你改
  */
 public class MetaSpaceOOM extends ClassLoader{
     public static void main(String[] args) {
