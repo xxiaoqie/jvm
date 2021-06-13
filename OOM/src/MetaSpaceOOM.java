@@ -3,6 +3,7 @@ import com.sun.xml.internal.ws.org.objectweb.asm.Opcodes;
 
 /**
  * -XX:MetaspaceSize=10m -XX:MaxMetaspaceSize=10m
+ * dsbdsb
  */
 public class MetaSpaceOOM extends ClassLoader{
     public static void main(String[] args) {
